@@ -1,2 +1,2 @@
-# Orienta-o-a-Objeto
+# Orientacao-ao-Objeto
 Primeira aula de orientação a objeto em Java.
